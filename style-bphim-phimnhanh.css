@@ -1,8 +1,4 @@
-/*
-Theme Name: phimnhanh.com
-Author: PhimNhanh Team
-Version: 1.0 phimnhanh.com
-*/
+
 @import url('font-awesome.css');
 
 html, body, div, span, applet, object, iframe,
@@ -5578,7 +5574,7 @@ button.main-nav {
 }
 
 div.logo a {
-    background-image: url(../images/logo.svg);
+    background-image: url(https://i.imgur.com/vQJTwtX.png);
     display: block;
     width: 266px;
     height: 0;
